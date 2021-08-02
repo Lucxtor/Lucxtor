@@ -5,7 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucxtor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucxtor&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<!--
+
+![Snake animation](https://github.com/Lucxtor/Lucxtor/blob/output/github-contribution-grid-snake.svg)
+
+  <!--
 **Lucxtor/Lucxtor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Snake animation](https://github.com/Lucxtor/Lucxtor/blob/output/github-contribution-grid-snake.svg)
