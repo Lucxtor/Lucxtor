@@ -8,6 +8,7 @@
 
 ![Snake animation](https://github.com/Lucxtor/Lucxtor/blob/output/github-contribution-grid-snake.svg)
 
+[![An image of @lucxtor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lucxtor)](https://holopin.io/@lucxtor)
   <!--
 **Lucxtor/Lucxtor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
